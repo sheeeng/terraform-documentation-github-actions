@@ -1,4 +1,4 @@
-# terraform-docs GitHub Actions
+# Terraform Documentation GitHub Actions
 
 > This project was forked from <https://github.com/terraform-docs/gh-actions> project, originally created by [
 terraform-docs](https://github.com/terraform-docs).
